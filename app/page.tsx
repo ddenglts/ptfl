@@ -18,9 +18,9 @@ export default function Home() {
           </div>
         </div>
         <CardContent className="w-1/2 pl-3 pt-6 pb-6 pr-6">
-          <h2 className="text-2xl font-bold mb-4">Hi! I'm David</h2>
+          <h2 className="text-2xl font-bold mb-4">Hi! I&apos;m David</h2>
           <p className="text-gray-600">
-            I'm a software developer, and currently a Math + CS student @ Rutgers University, New Brunswick.
+            I&apos;m a software developer, and currently a Math + CS student @ Rutgers University, New Brunswick.
           </p>
         </CardContent>
       </Card>
