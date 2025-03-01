@@ -130,7 +130,13 @@
   * {
     @apply border-border outline-ring/50;
   }
+  html, body {
+    @apply h-full overflow-x-hidden;
+    margin: 0;
+    padding: 0;
+  }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground flex flex-col;
+    min-height: 100vh;
   }
 }
