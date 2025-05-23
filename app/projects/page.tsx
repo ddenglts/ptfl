@@ -3,8 +3,8 @@ import { ProjectTile } from "@/components/ui/projecttile";
 export default function Home() {
   const projects = [
     {
-      title: "YAWT (Yet Another Workout Tracker)",
-      desc: "A Progressive Web App for tracking workouts and statistics. A special focus on letting recorded data be easily exportable and integrate with popular AI tools, among other things. In progress!",
+      title: "YAWT",
+      desc: "....",
     },
     {
       title: "Virtual Memory Management System",
